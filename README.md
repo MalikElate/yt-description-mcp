@@ -1,5 +1,7 @@
 # YouTube Transcript Extractor MCP 🎥
 
+[![smithery badge](https://smithery.ai/badge/@MalikElate/yt-description-mcp)](https://smithery.ai/server/@MalikElate/yt-description-mcp)
+
 A Model Context Protocol (MCP) server that enables AI assistants to extract transcripts from YouTube videos. Built for integration with Cursor and Claude Desktop, this tool allows AI to analyze and work with YouTube video content directly.
 
 ## Features
@@ -17,6 +19,14 @@ A Model Context Protocol (MCP) server that enables AI assistants to extract tran
 - A YouTube video URL to extract transcripts from
 
 ## Installation
+
+### Installing via Smithery
+
+To install YouTube Transcript Extractor for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@MalikElate/yt-description-mcp):
+
+```bash
+npx -y @smithery/cli install @MalikElate/yt-description-mcp --client claude
+```
 
 1. Clone the repository:
 ```bash
@@ -107,6 +117,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 MIT
-
-
-
