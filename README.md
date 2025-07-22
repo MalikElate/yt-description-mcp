@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that enables AI assistants to extract transcripts from YouTube videos. Built for integration with Cursor and Claude Desktop, this tool allows AI to analyze and work with YouTube video content directly.
 
+<a href="https://glama.ai/mcp/servers/@MalikElate/yt-description-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@MalikElate/yt-description-mcp/badge" alt="YouTube Transcript Extractor MCP server" />
+</a>
+
 ## Features
 
 - 🎯 Extract transcripts from any public YouTube video
@@ -107,6 +111,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 MIT
-
-
-
